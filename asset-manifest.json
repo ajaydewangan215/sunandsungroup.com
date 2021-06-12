@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/sunandsungroup.com/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/sunandsungroup.com/static/js/main.146d7e09.chunk.js",
-    "main.js.map": "/sunandsungroup.com/static/js/main.146d7e09.chunk.js.map",
+    "main.css": "/sunandsungroup.com/static/css/main.23dd8be2.chunk.css",
+    "main.js": "/sunandsungroup.com/static/js/main.febf1457.chunk.js",
+    "main.js.map": "/sunandsungroup.com/static/js/main.febf1457.chunk.js.map",
     "runtime-main.js": "/sunandsungroup.com/static/js/runtime-main.db90a2d8.js",
     "runtime-main.js.map": "/sunandsungroup.com/static/js/runtime-main.db90a2d8.js.map",
-    "static/js/2.a9324b23.chunk.js": "/sunandsungroup.com/static/js/2.a9324b23.chunk.js",
-    "static/js/2.a9324b23.chunk.js.map": "/sunandsungroup.com/static/js/2.a9324b23.chunk.js.map",
+    "static/js/2.e534d860.chunk.js": "/sunandsungroup.com/static/js/2.e534d860.chunk.js",
+    "static/js/2.e534d860.chunk.js.map": "/sunandsungroup.com/static/js/2.e534d860.chunk.js.map",
     "index.html": "/sunandsungroup.com/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/sunandsungroup.com/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.a9324b23.chunk.js.LICENSE.txt": "/sunandsungroup.com/static/js/2.a9324b23.chunk.js.LICENSE.txt",
+    "static/css/main.23dd8be2.chunk.css.map": "/sunandsungroup.com/static/css/main.23dd8be2.chunk.css.map",
+    "static/js/2.e534d860.chunk.js.LICENSE.txt": "/sunandsungroup.com/static/js/2.e534d860.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sunandsungroup.com/static/media/background.c1ffcf6f.jpg",
     "static/media/logo.9b676b1b.svg": "/sunandsungroup.com/static/media/logo.9b676b1b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.db90a2d8.js",
-    "static/js/2.a9324b23.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.146d7e09.chunk.js"
+    "static/js/2.e534d860.chunk.js",
+    "static/css/main.23dd8be2.chunk.css",
+    "static/js/main.febf1457.chunk.js"
   ]
 }
