@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
     return (
-        <section className="banner-section">
+        <section className="banner-section home">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-4 col-md-5 col-sm-12 position-relative">

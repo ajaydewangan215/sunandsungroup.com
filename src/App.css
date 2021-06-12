@@ -9,6 +9,7 @@
 
 a {
   text-decoration:none;
+  color: #f7bd00;
 }
 
 #top-header .top-left a {
@@ -101,10 +102,35 @@ a {
 }
 /* banner section */
 .banner-section{
-  position: relative;
+  position: relative;      
+}
+
+.banner-section.home{
   background: url('images/background/background.jpg') no-repeat center top;
-  min-height: 100vh;
   background-size: cover;
+  min-height: 100vh;
+}
+
+.banner-section.about{
+  background: url('images/background/about_banner.jpg') no-repeat center;
+  background-size: cover;
+  min-height: 60vh;
+}
+
+.banner-section.service{
+  background: url('images/background/service_banner.jpg') no-repeat center top;
+  background-size: cover;
+  min-height: 60vh;
+}
+.banner-section.news{
+  background: url('images/background/service_banner.jpg') no-repeat center top;
+  background-size: cover;
+  min-height: 60vh;
+}
+.banner-section.contact{
+  background: url('images/background/service_banner.jpg') no-repeat center top;
+  background-size: cover;
+  min-height: 60vh;
 }
 
 .banner-section .container{
@@ -160,4 +186,7 @@ a {
   display: inline-block;
   font-family: 'Playfair Display', serif;
 }
-  
+
+.breadcrumb-item+.breadcrumb-item::before {
+  color: #ffffff;
+}  
